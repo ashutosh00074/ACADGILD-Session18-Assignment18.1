@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Battery Laval</string>
+    <string name="battery_image">Battery Image</string>
+    <string name="battery_level_remaining">Battery Level Remaining</string>
+</resources>
